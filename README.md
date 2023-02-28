@@ -4,7 +4,22 @@ Siamese Convolutional Neural Network for the Classification  of Peach Leaves. Th
 apploed on the 224x224 variant of the dataset. 
 
 ## Replication of benchmark architecture
-
-The colab notebook the contains the code for the replicated benchmark architecture is
 siamese_network_benchmark.ipynb
 
+## Proposed architecture ReLU variant
+siamese_network_pa_relu.ipynb
+
+## Proposed architecture LReLU variant
+siamese_network_pa_lrelu.ipynb
+
+## Proposed architecture ELU variant
+siamese_network_pa_elu.ipynb
+
+## Pre-trained model ResNet50 
+siamese_network_pm_resnet50.ipynb
+
+## Pre-trained model DenseNet121 
+siamese_network_pm_densenet121.ipynb
+
+## Pre-trained model EfficientNetB0 
+siamese_network_pm_efficientnetb0.ipynb
