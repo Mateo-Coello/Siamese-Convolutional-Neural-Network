@@ -4,7 +4,7 @@ This work focuses on the use of Siamese CNNs to identify front and back faces of
 
 ## Dataset
 The dataset is available at https://drive.google.com/drive/folders/1rWCr9DrknoK0HKFhNRavCVgZ5UKjU3hi. The experiments developed were
-apploed on the 224x224 variant of the dataset. 
+applied on the 224x224 variant of the dataset. 
 
 ## Architectures
 The models developed for this work were
