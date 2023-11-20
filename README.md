@@ -1,10 +1,10 @@
 # Siamese Convolutional Neural Network for the Classification  of Peach Leaves. 
 
-This work focuses on the use of Siamese CNNs to identify front and back faces of six Peach leaves varieties, which play a crucial role prior to detecting bacteriosis, a common disease in Peach production.
+This work focuses on the use of Siamese CNNs to identify the front and back faces of six Peach leaf varieties, which play a crucial role prior to detecting bacteriosis, a common disease in Peach production.
 
 ## Dataset
 The dataset is available at https://drive.google.com/drive/folders/1rWCr9DrknoK0HKFhNRavCVgZ5UKjU3hi. The experiments developed were
-applied on the 224x224 variant of the dataset. 
+applied to the 224x224 variant of the dataset. 
 
 ## Architectures
 The models developed for this work were
@@ -37,6 +37,6 @@ siamese_network_pm_efficientnetb0.ipynb
 2. Clone this repository
 3. Upload the dataset to your Google Drive account
 5. Open Google Colab and upload one of the 
-   architecture files you wan to test
+   architecture files you want to test
 6. Follow the steps mentioned in the colab notebook
    to train the models and check for the results
